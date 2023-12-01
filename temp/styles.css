@@ -35,6 +35,8 @@ body {
 
 }
 
+
+
 /*Imagens*/
 
 .img-busca {
@@ -47,9 +49,6 @@ body {
     
 }
     
-
-}
-
 .img-previsao {
     height: 30px;
 }
@@ -75,6 +74,7 @@ p {
 
 .umidade {
     margin-left: 20px;
+    
 }
 
 
